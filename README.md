@@ -1,6 +1,6 @@
 # Dragon Egg Species Classification
 
-Logistic regression project for **COMS4048A/COMS7063A – Statistical Foundations of Data Science**, University of the Witwatersrand.
+Logistic regression project for **COMS4048A/COMS7063A – Statistical Foundations of Data Science**.
 
 ## Overview
 
